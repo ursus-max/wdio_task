@@ -16,3 +16,10 @@ Close the promo banner if it appears
 Open "Today's Best Deals" tab
 Click on the Internet shop logo (top right corner)
 Check that the main page opened
+
+# To run test
+
+`npm install``
+
+`npm run wdio`
+
