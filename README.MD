@@ -19,7 +19,7 @@ Check that the main page opened
 
 # To run test
 
-`npm install``
+`npm install`
 
 `npm run wdio`
 
