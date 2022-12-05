@@ -2,7 +2,6 @@ Feature: Bootcamp E2E
 
 Background: 
     Given As a user I open the home page
-    And I close the promo banner if it appears
 
 Scenario: Search bar
     When Entry the word Windows in the search bar

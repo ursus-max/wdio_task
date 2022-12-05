@@ -4,11 +4,6 @@ Given ("As a user I open the home page", async () => {
     await browser.url (URL)
 });
 
-Given ("I close the promo banner if it appears", async () => {
-
-   //browser.refresh();
-   //Balck friday is over banner no longer appears
-});
 
 When ('Entry the word Windows in the search bar', async () => {
     const searchField = await $('input[type=search]'); 
